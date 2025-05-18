@@ -1,20 +1,42 @@
-### Hi there 👋
+# 👋 Hi, I’m Lucien Fernandez
 
-<!--
-**lucienfer/lucienfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an independent developer building tools and systems at the intersection of performance, decentralization and cryptography.
 
-Here are some ideas to get you started:
+Currently focused on:
+- ⚙️ **Rust** – for its control, safety, and expressiveness
+- 🔐 **Zero-Knowledge Proofs** – especially with **Noir**
+- 🧠 **Systems Thinking & Architecture** – to deeply understand how things work and fit together
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucienfer&layout=compact&langs_count=8&theme=dark)](https://github.com/lucienfer)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=lucienfer&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucienfer&theme=dark)](https://github.com/lucienfer)
+---
+
+## 🛠 Projects
+
+🔧 **[git-branch-cleaner](https://github.com/lucienfer/git-branch-cleaner)**  
+A CLI tool to clean up merged Git branches – currently WIP.
+
+🧮 **[computor-v1](https://github.com/lucienfer/computor-v1)**  
+A small interpreter solving polynomials (up to degree 2), written in Rust for learning parsing and symbolic math.
+
+🧪 More coming soon – including ZK experiments and agent-based P2P systems.
+
+---
+
+## 💡 Philosophy
+
+I care about:
+- Clean, composable, and readable code
+- Understanding systems from the ground up
+- Building tools that feel **solid and elegant**
+
+---
+
+## 📫 Reach me
+
+- GitHub: [@lucienfer](https://github.com/lucienfer)
+- LinkedIn: [Lucien Fernandez](https://www.linkedin.com/in/lucienfernandez)
+- Email: lucien.fernandez.pro@gmail.com
+
+---
+
+> “Simple is not easy. But it scales.”
+
