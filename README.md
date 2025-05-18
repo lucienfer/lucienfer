@@ -9,6 +9,15 @@ Currently focused on:
 
 ---
 
+## 📚 Currently Learning
+
+- 🧩 **Merkle Trees** & low-level ZK building blocks  
+- ➗ **Elliptic Curves** and cryptographic primitives  
+- 🔧 **Rust internals**, memory layout and performance optimization  
+- 🧠 Deep work & learning strategies to sharpen long-term focus
+
+---
+
 ## 🛠 Projects
 
 🔧 **[git-branch-cleaner](https://github.com/lucienfer/git-branch-cleaner)**  
@@ -17,7 +26,7 @@ A CLI tool to clean up merged Git branches – currently WIP.
 🧮 **[computor-v1](https://github.com/lucienfer/computor-v1)**  
 A small interpreter solving polynomials (up to degree 2), written in Rust for learning parsing and symbolic math.
 
-🧪 More coming soon – including ZK experiments and agent-based P2P systems.
+🧪 More coming soon – including ZK experiments.
 
 ---
 
