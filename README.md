@@ -45,7 +45,3 @@ I care about:
 - LinkedIn: [Lucien Fernandez](https://www.linkedin.com/in/lucienfernandez)
 - Email: lucien.fernandez.pro@gmail.com
 
----
-
-> “Simple is not easy. But it scales.”
-
